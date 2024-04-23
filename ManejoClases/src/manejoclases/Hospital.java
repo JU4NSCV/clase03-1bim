@@ -4,11 +4,6 @@
  * and open the template in the editor.
  */
 package manejoclases;
-
-/**
- *
- * @author reroes
- */
 public class Hospital {
-    
+
 }
